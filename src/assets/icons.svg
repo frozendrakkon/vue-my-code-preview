@@ -1,0 +1,68 @@
+<svg width="0" height="0" class="hidden">
+  <symbol version="1.1" id="arrow-left" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" viewBox="0 0 30.725 30.725">
+    <g>
+      <path fill="#3b4256" d="M24.078,26.457c0.977,0.978,0.977,2.559,0,3.536c-0.488,0.488-1.128,0.731-1.77,0.731c-0.639,0-1.278-0.243-1.768-0.731
+		L5.914,15.362l14.629-14.63c0.977-0.977,2.559-0.976,3.535,0c0.977,0.977,0.977,2.56,0,3.536L12.984,15.362L24.078,26.457z"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="close-icon">
+    <g fill="none" fill-rule="evenodd">
+      <path fill="#FFF" fill-rule="nonzero" d="M24 12c0-6.617-5.383-12-12-12S0 5.383 0 12s5.383 12 12 12 12-5.383 12-12z" opacity=".4"></path>
+      <path stroke="#000" stroke-linecap="round" stroke-width="2" d="M8 8l8 8M16 8l-8 8"></path>
+    </g>
+  </symbol>
+  <symbol xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" id="error-icon">
+      <g id="Error_1_">
+        <g id="Error">
+          <circle cx="16" cy="16" id="BG" r="16"></circle>
+          <path d="M14.5,25h3v-3h-3V25z M14.5,6v13h3V6H14.5z" id="Exclamatory_x5F_Sign"></path>
+        </g>
+      </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="info">
+    <g fill="none" fill-rule="evenodd" opacity=".72">
+      <circle cx="12" cy="12" r="11.5" stroke="#1F2229"></circle>
+      <path fill="#1F2229" fill-rule="nonzero" d="M12.533 4a2.072 2.072 0 0 1 2.053 2.103c-.008 1.153-.942 2.087-2.061 2.078a2.102 2.102 0 0 1-2.087-2.111A2.079 2.079 0 0 1 12.533 4zm2.953 14.008c-.042.177-.16.362-.286.497-.757.765-1.657 1.22-2.742 1.236a9.094 9.094 0 0 1-1.515-.084c-.833-.118-1.884-1.144-1.733-2.246.101-.749.219-1.498.345-2.246.219-1.296.454-2.6.681-3.896.017-.084.017-.168.017-.252 0-.547-.168-.732-.706-.808-.228-.034-.472-.05-.682-.126-.27-.093-.387-.303-.362-.522.026-.227.169-.37.463-.429.152-.033.311-.033.471-.033H13.375c.488 0 .774.227.79.715.009.403-.058.807-.134 1.211-.26 1.48-.539 2.962-.808 4.45-.092.489-.193.985-.244 1.473a2.05 2.05 0 0 0 .068.715c.075.312.31.48.622.446.26-.033.522-.126.774-.219.202-.075.379-.218.59-.294.277-.11.53.1.453.412z"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="photo">
+    <g fill="none" fill-rule="evenodd" opacity=".72">
+      <circle cx="12" cy="12" r="11.5" stroke="#1F2229"></circle>
+      <path fill="#1F2229" fill-rule="nonzero" d="M8 8l2-2h4l2 2h2a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h2zm4 7.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="order">
+    <g fill="none" fill-rule="evenodd" opacity=".72">
+      <circle cx="12" cy="12" r="11.5" stroke="#1F2229"></circle>
+      <path fill="#1F2229" d="M8 6h6.042l-.06 2.99L17 9.063V18a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1zm7 0l2 2h-2V6zm-6 6v1h6v-1H9zm0 4v1h4v-1H9zm0-6v1h6v-1H9zm0 4v1h6v-1H9z"></path>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="success-icon">
+    <path d="M12 23.5C18.3513 23.5 23.5 18.3513 23.5 12C23.5 5.64873 18.3513 0.5 12 0.5C5.64873 0.5 0.5 5.64873 0.5 12C0.5 18.3513 5.64873 23.5 12 23.5Z" stroke="#1F2229"></path>
+    <path d="M6 12L10.5 16L18 8" stroke="#1F2229" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="details">
+    <g fill="none" fill-rule="evenodd" opacity=".72">
+      <circle cx="12" cy="12" r="11.5" stroke="#1F2229"/>
+      <path fill="#1F2229" fill-rule="nonzero" d="M8.293 14.708a3 3 0 1 1 0-5.415l2-2a3 3 0 1 1 1.414 1.414l-2 2c.188.391.293.83.293 1.293 0 .463-.105.902-.292 1.293l1.999 2a3 3 0 1 1-1.414 1.414l-2-2zM13 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm0 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-6-6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+    </g>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="success-icon-green">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="8" cy="8" r="8" fill="#0DAD40"/>
+        <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 7.75l2.75 2.5 3.75-4.5"/>
+    </g>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="shape">
+      <path fill="#CFCFD1" fill-rule="nonzero" d="M8.88 10.2L14.64.24C13.8.12 12.84 0 12 0 9.12 0 6.48.96 4.44 2.76l4.44 7.56v-.12zM23.4 8.4c-1.08-3.48-3.72-6.36-7.2-7.56L11.88 8.4H23.4zm.36 1.2h-9l.36.6 5.76 9.96C22.8 18 24 15.12 24 12c0-.84-.12-1.68-.24-2.4zM7.8 12L3.12 3.84A12.306 12.306 0 0 0 0 12c0 .84.12 1.68.24 2.4h9L7.8 12zM.6 15.6c1.08 3.48 3.72 6.36 7.2 7.56l4.44-7.56H.6zm13.44 0l-4.68 8.16c.84.24 1.68.24 2.64.24 2.88 0 5.52-.96 7.56-2.76l-4.44-7.56-1.08 1.92z"/>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="combined-shape">
+      <path fill="#CFCFD1" fill-rule="nonzero" d="M31 4.286L37 0v14l-6-4.286V12a2 2 0 0 1-2 2H15a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2.286zm10.597 3.029C47.661 9.049 51 11.639 51 14.608c0 1.61-1.007 3.964-5.805 6.032-3.375 1.454-8.112 2.511-13.339 2.977a1.074 1.074 0 0 1-.094.004h-.014l-4.408-.06a1.062 1.062 0 0 1 .015-2.124h.014l4.353.059c4.986-.45 9.47-1.446 12.632-2.808 2.873-1.238 4.521-2.725 4.521-4.08 0-1.852-3.013-3.863-7.862-5.25a1.062 1.062 0 0 1 .584-2.043zM19.43 17.388l3.624 4.285c.162.192.251.435.251.686v.081c0 .263-.097.517-.273.712l-3.866 4.284a1.06 1.06 0 0 1-1.501.077 1.062 1.062 0 0 1-.077-1.5l2.119-2.349c-5.1-.413-9.74-1.371-13.199-2.737C2.25 19.247 0 17.063 0 14.607c0-1.48.815-2.863 2.423-4.108C3.81 9.426 5.758 8.477 8.216 7.68a1.063 1.063 0 0 1 .655 2.022c-4.224 1.37-6.746 3.204-6.746 4.906 0 1.465 1.881 3.048 5.162 4.343 3.34 1.318 7.88 2.237 12.896 2.619l-2.377-2.81a1.063 1.063 0 0 1 1.623-1.372z"/>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="success-icon">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="8" cy="8" r="8" fill="#0DAD40"/>
+        <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.75 7.75l2.75 2.5 3.75-4.5"/>
+    </g>
+  </symbol>
+  
+</svg>
